@@ -1,7 +1,11 @@
 ---
-title: "Software item number 1"
-excerpt: "TDOSE short descripton for overview page <br/><img src='/images/TDOSElogo.png'>"
+title: "The GLASS Inspection GUIs"
+excerpt: "The GLASS Inspection GUIs: GiG, GiGz & GiGm"
 collection: software
 ---
 
-TDOSE is a Python tool for optimally extracting 1D spectra from IFU data cubes. It is based on the point source extraction software presented in Kamann et al. (2013), added the ability to handle extended sources, i.e., galaxies and other non-stellar objects contained in the data cubes. TDOSE has been developed with MUSE in mind, but should be applicable to any data cube. Details will be provided in a forthcoming publication, but in the meantime, a readme is available together with the code at https://github.com/kasperschmidt/TDOSE 
+The GLASS Inspection GUIs: GiG, GiGz & GiGm
+
+As part of the GLASS NIR spectroscopic data releases, we developed a set of GUIs for inspecting and classifying the GLASS spectra (GiG), manually determining the objects redshifts (GiGz) and classifying the morphology of the continuum and star formation maps (GiGm). The tools are presented in Treu, Schmidt et al. (2015) as well as Vulcani et al. (2016) and are available at:
+
+https://github.com/kasperschmidt/GLASSinspectionGUIs

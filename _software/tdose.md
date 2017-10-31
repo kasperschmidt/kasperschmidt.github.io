@@ -1,5 +1,5 @@
 ---
-title: "Software item number 1"
+title: "TDOSE"
 excerpt: "TDOSE short descripton for overview page <br/><img src='/images/TDOSElogo.png'>"
 collection: software
 ---

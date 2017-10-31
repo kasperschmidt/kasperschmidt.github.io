@@ -1,10 +1,11 @@
 ---
-title: "Software item number 2 html"
-excerpt: "Short description of software html page item number 2 <br/><img src='/images/TDOSElogo.png'>"
+title: "QSO Variability Selection"
+excerpt: "Code to select quasars based on their broad band variability signatures"
 collection: software
 ---
 
-This is an item in your software page. 
-It can be have images or nice text. 
-If you name the file .md, it will be parsed as markdown. If you name the file .html, 
-it will be parsed as HTML. 
+Detecting QSOs Based on Variability
+
+As part of Schmidt et al. (2010) we developed an algorithm to select quasars based on their variability in multi-epoch data. The code is available at:
+
+https://github.com/kasperschmidt/variabilityselectioncode
