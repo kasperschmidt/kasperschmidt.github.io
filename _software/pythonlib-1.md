@@ -6,4 +6,4 @@ collection: software
 
 Day-to-day software packages and tools written in Python (current) availble at
 
-https://github.com/kasperschmidt/python
+<https://github.com/kasperschmidt/python>

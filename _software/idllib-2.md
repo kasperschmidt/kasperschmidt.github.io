@@ -6,4 +6,4 @@ collection: software
 
 Day-to-day software packages and tools written in IDL (past) availble at
 
-https://github.com/kasperschmidt/idl
+<https://github.com/kasperschmidt/idl>
