@@ -81,8 +81,8 @@ author:
   name             : "K. B. Schmidt"
   avatar           : "bio_photo_kbs.png"
   bio              : "Postdoctoral Researcher"
-  location         : "Potsdam, Germany"
-  employer         : "AIP"
+  location         : "AIP, Potsdam, Germany"
+  employer         :
   googlescholar    : 
   email            : "kbschmidt@aip.de"
   uri              :
@@ -249,8 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-future: true # added by KBS171031
-timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
