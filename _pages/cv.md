@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+PDF
+======
+For an extensive version of my CV, check out
+
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Sc. in Astrophysics, University of Copenhagen, 2006
+* M.Sc. in Astrophysics, DARK Cosmology Center, University of Copenhagen, 2008
+* Ph.D. in Astrophysics, Max Planck Institute for Astronomy, University of Heidelberg, 2012
 
 Work experience
 ======
@@ -21,20 +26,6 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,6 +45,5 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Research Experience and Positions
+======* External Reviewer for Chinese Telescope Access Program TAC* Team Member, MUSE GTO team* Team Member, The Grism Lens-Amplified Survey from Space (GLASS)* Team Member, BoRG Hubble Parallel Survey Group* Referee, ApJ, MNRAS* Team Member, 3D-HST Hubble Treasury Legacy Survey Group* Organizer & Founder of ‘LiHD - Lensing in Heidelberg’, monthly seminar session on lensing. Team Member, Pan-STARRS1 Science Collaboration* Member, International Max Planck Research School - Heidelberg (IMPRS-HD)* Member, ELIXIR, Marie Curie Initial Training Network: Early Universe w. NIRSpec on JWST
