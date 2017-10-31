@@ -1,6 +1,6 @@
 ---
 title: "Software item number 1"
-excerpt: "TDOSE<br/><img src='/images/TDOSElogo.png'>"
+excerpt: "TDOSE short descripton for overview page <br/><img src='/images/TDOSElogo.png'>"
 collection: software
 ---
 

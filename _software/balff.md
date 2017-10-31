@@ -1,7 +1,7 @@
 ---
 title: "Software item number 2 html"
 excerpt: "Short description of software html page item number 2 <br/><img src='/images/TDOSElogo.png'>"
-collection: portfolio
+collection: software
 ---
 
 This is an item in your software page. 
