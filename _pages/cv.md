@@ -9,19 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+__[PDF version of full CV available at http://kasperschmidt.github.io/files/CV_KBSchmidt.pdf](http://kasperschmidt.github.io/files/CV_KBSchmidt.pdf)__
+
 Contact
 ======
 
-Kasper Borello Schmidt
+__Kasper Borello Schmidt__
 
-Leibniz-Institut für Astrophysik Potsdam (AIP)
-An der Sternwarte 16 
+Leibniz-Institut für Astrophysik Potsdam (AIP)  
+An der Sternwarte 16  
 14482 Potsdam, Germany
 
-Office: SH 229
-Phone: +49 (0) 331 7499 523
-Cell: +49 (0) 152 2873 3805
-E-mail: kbschmidt at aip.de
+__Office:__ SH 229  
+__Phone:__ +49 (0) 331 7499 523  
+__Cell:__ +49 (0) 152 2873 3805  
+__E-mail:__ kbschmidt at aip.de  
 
 Education
 ======
