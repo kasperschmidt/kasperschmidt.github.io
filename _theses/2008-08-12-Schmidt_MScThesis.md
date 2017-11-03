@@ -1,7 +1,7 @@
 ---
 title: "M.Sc. Thesis"
 collection: publications
-permalink: /publication/2008-08-12-Schmidt_M.Sc.Thesis
+permalink: /publication/2008-08-12-Schmidt_MScThesis
 excerpt: '__Towards Understanding Dark Matter Structures__ Kasper B. Schmidt (2008)'
 date: 2008-08-12
 venue: 'DARK Cosmology Center, University of Copenhagen'

@@ -1,7 +1,7 @@
 ---
 title: "B.Sc. Thesis"
 collection: publications
-permalink: /theses/2006-06-30-Schmidt_B.Sc.Thesis
+permalink: /theses/2006-06-30-Schmidt_BScThesis
 excerpt: '__The Inflationary Scenario in The Early Universe__ Kasper B. Schmidt & Juliane M. Møller (2006)'
 date: 2006-06-30
 venue: 'University of Copenhagen'
