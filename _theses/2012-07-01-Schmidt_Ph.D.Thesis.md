@@ -1,15 +1,15 @@
 ---
 title: "Ph.D. Thesis"
 collection: publications
-permalink: /publication/
-excerpt: 'excerpt of thesis... abstract? KBS'
-date: 2012-07-01
-venue: 'University of Copenhagen'
+permalink: /theses/2012-07-01-Schmidt_Ph.D.Thesis
+excerpt: 'Frontiers of Galaxy Evolution – Time-Domain Observations and 3D Spectroscopy. Kasper B. Schmidt (2012)'
+date: 2012-07-09
+venue: 'Mac Planck Insitute for Astronomy & University of Heidelberg'
 paperurl: 'http://kasperschmidt.github.io/files/Schmidt_2012_Ph.D.Thesis.pdf'
-citation: 'Kasper B. Schmidt (2012). &quot; Frontiers of Galaxy Evolution – Time-Domain Observations and 3D Spectroscopy &quot; <i>MPIA & University of Heidelberg</i>'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download thesis here](http://kasperschmidt.github.io/files/Schmidt_2012_Ph.D.Thesis.pdf)
 
-Recommended citation: Schmidt (2012). "Frontiers of Galaxy Evolution – Time-Domain Observations and 3D Spectroscopy" <i>Ph.D. Thesis, University of Heidelberg, Germany</i>.
+__ABSTRACT:__
+
+Understanding the formation and evolution of galaxies through cosmic time has been a central focus of astrophysics in the last decades: how did the interplay between dark matter structure formation, star formation, galaxy merging, and active galactic nuclei (AGN) give rise to the observed galaxy properties at different redshifts? This thesis presents innovative observational approaches to two aspects of this problem: finding and studying AGN through their variability, and making a first systematic census of galaxy mergers at z>1 through three-dimensional spectroscopy.First we present a new and simple technique for selecting extensive, complete, and pure quasar samples via their intrinsic variability, parameterizing the single-band light-curve structure function through a power-law to identify quasars among other variable and non-variable sources. Using extensive multi-epoch observations from SDSS Stripe 82 containing ~60 epochs taken over ~8 years, we demonstrate the power of this approach. The presented algorithm identifies quasars with a completeness and purity above 90% at all redshifts. Even for Pan-STARRS 1 mock data of only 6 epochs over 3 years, variability is still an encouragingly efficient quasar classifier. Data on intrinsic quasar variability enable a wide range of astrophysical science. We quantify the color variability, confirming and greatly fleshing out previous claims, that quasars become bluer as they brighten. We find a strong redshift dependence of this blueing, which we can attribute to emission lines contributing to the SDSS bands at different redshifts. We find that the color variations of single quasars are much more pronounced than the ranges in color seen in time-averaged ensembles of quasars. This indicates, that the observed color variations cannot be explained by changes in the mean steady state AGN accretion rate, but must arise from accretion disk ‘hotspots’ or similar phenomena.In the second, distinct part of the thesis, we present the first large sample of morphologically selected galaxy mergers with three-dimensional spectroscopy at z~1.5. With individual masses and star formation rates derived from multi-band photometry, we created emission line maps from the slitless grism spectroscopy of 3D-HST as proxy for star formation maps, providing a comprehensive empirical picture of where star formation takes place in galaxy mergers at the epoch, where the cosmic star formation and merger rates peaked. We find that a broad range of star formation morphologies occur at all redshifts, irrespective of star formation rate and total stellar mass, in these mergers. An initial illustrative comparison to a set of cosmological simulations shows, that simulated mergers with similar mass and gas content show star formation in both merger components far more often than for the observed 3D-HST mergers. This suggests that mergers at z~1.5 most commonly happen between galaxies of distinctly different gas fractions.
