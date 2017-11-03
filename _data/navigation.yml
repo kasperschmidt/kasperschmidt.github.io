@@ -14,18 +14,18 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-  - title: "CV & Publications"
-    url: /cv/
 
   - title: "Software"
     url: /software/
+    
+  - title: "Travel"
+    url: /travel/
+
+  - title: "CV & Publications"
+    url: /cv/
 
   - title: "Theses"
     url: /theses/
-
-  - title: "Travel"
-    url: /travel/
     
 #  - title: "Guide"
 #    url: /markdown/
