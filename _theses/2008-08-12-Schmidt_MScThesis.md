@@ -6,7 +6,6 @@ excerpt: '__Towards Understanding Dark Matter Structures__ Kasper B. Schmidt (20
 date: 2008-08-12
 venue: 'DARK Cosmology Center, University of Copenhagen'
 paperurl: 'http://kasperschmidt.github.io/files/Schmidt_2008_M.Sc.Thesis.pdf'
-citation: 'K. B. Schmidt (2008). M.Sc. Thesis <i>University of Copenhagen</i>.'
 ---
 
 [Download thesis here](http://kasperschmidt.github.io/files/Schmidt_2008_M.Sc.Thesis.pdf)
