@@ -1,6 +1,6 @@
 ---
 title: "Ph.D. Thesis"
-collection: publications
+collection: theses
 permalink: /theses/2012-07-01-Schmidt_PhDThesis
 excerpt: '__Frontiers of Galaxy Evolution – Time-Domain Observations and 3D Spectroscopy__ Kasper B. Schmidt (2012)'
 date: 2012-07-09
