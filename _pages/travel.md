@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 <iframe src="https://drive.google.com/open?id=1VmqE5ZI1DH6JwzMAbh77QHU9JjY&usp=sharing" height="700" width="850" style="border:none;"></iframe>
 
 __Future Travel__
