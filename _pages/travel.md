@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout : archive
 title: "When not in Berlin"
-excerpt: "List of previous and upcoming travels"
+permalink: /travel/
 author_profile: true
-redirect_from: 
-  - /travel/
-  - /travel.html
 ---
 
 <iframe src="https://drive.google.com/open?id=1VmqE5ZI1DH6JwzMAbh77QHU9JjY&usp=sharing" height="700" width="850" style="border:none;"></iframe>
