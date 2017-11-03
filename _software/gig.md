@@ -2,6 +2,7 @@
 title: "The GLASS Inspection GUIs"
 excerpt: "The GLASS Inspection GUIs: GiG, GiGz & GiGm"
 collection: software
+date: 2015-02-03
 ---
 The GLASS Inspection GUIs: GiG, GiGz & GiGm
 

@@ -2,6 +2,7 @@
 title: "QSO Variability Selection"
 excerpt: "Code to select quasars based on their broad band variability signatures"
 collection: software
+date: 2010-01-01
 ---
 Detecting QSOs Based on Variability
 
