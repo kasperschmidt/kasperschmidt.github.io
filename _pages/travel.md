@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://drive.google.com/open?id=1VmqE5ZI1DH6JwzMAbh77QHU9JjY&usp=sharing" height="700" width="850" style="border:none;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1VmqE5ZI1DH6JwzMAbh77QHU9JjY&hl=en" width="640" height="480"></iframe>
 
 __Future Travel__
 
