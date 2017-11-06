@@ -1,8 +1,7 @@
 ---
 title: "24 LAEs Found in 6/10 GLASS Clusters"
-excerpt: "As part of the GLASS survey, in <a href="http://adsabs.harvard.edu/abs/2015arXiv151104205S" target="_blank">Schmidt et al. (2016)</a> we presented the first sample of Lyα emitters detected in the slitless NIR spectrsocopy collected by the GLASS observations. <br/><center><img src='/images/S16_GLASSLAEs.png'></center>"
+excerpt: "As part of the GLASS survey, in <a href="http://adsabs.harvard.edu/abs/2015arXiv151104205S" target="_blank">Schmidt et al. (2016)</a> we presented the first sample of Lyα emitters detected in the slitless NIR spectrsocopy collected by the GLASS observations. <br/><img src='/images/S16_GLASSLAEs.png'>"
 collection: portfolio
-date: 2015-11-13
 ---
 
 <a href="http://adsabs.harvard.edu/abs/2015arXiv151104205S" target="_blank">Schmidt et al. (2016)</a> presents a sample of 24 objects with emission lines consistent with being Lyα at redshifts around or above 7, at the heart of the epoch of reionization. The figure shows the redshift distribution of these line emitters. Taking advantage of the GLASS 1σ flux limits of 5 x 10-18 erg/s/cm2 (not corrected for lensing magnification) in each of the GLASS spectra, the Lyα emitters were assembled via visual inspection of the GLASS spectra of a sample of more than 150 photometrically selected Lyman break galaxies, in the first 6 completed GLASS clusters.
