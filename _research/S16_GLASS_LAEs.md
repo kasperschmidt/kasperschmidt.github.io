@@ -1,7 +1,7 @@
 ---
 title: "24 LAEs Found in 6/10 GLASS Clusters"
 excerpt: "As part of the GLASS survey, in <a href="http://adsabs.harvard.edu/abs/2015arXiv151104205S" target="_blank">Schmidt et al. (2016)</a> we presented the first sample of Lyα emitters detected in the slitless NIR spectrsocopy collected by the GLASS observations. <br/><center><img src='/images/S16_GLASSLAEs.png'></center>"
-collection: research
+collection: portfolio
 date: 2015-11-13
 ---
 
