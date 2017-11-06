@@ -1,11 +1,11 @@
 # main links links
 main:
-#  - title: "Research"
-#    url: /portfolio/
-
+  - title: "Research"
+    url: /portfolio/
+        
   - title: "Software"
     url: /software/
-
+    
   - title: "Travel"
     url: /travel/
 
@@ -14,6 +14,6 @@ main:
 
   - title: "Theses"
     url: /theses/
-
+    
 #  - title: "Blog Posts"
 #    url: /year-archive/
