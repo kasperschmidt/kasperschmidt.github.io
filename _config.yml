@@ -178,7 +178,7 @@ collections:
   theses:
     output: true
     permalink: /:collection/:path/
-  research:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   software:
@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _portfolio
   - scope:
       path: ""
-      type: research
+      type: portfolio
     values:
       layout: single
       author_profile: true
