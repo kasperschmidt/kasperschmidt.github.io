@@ -1,7 +1,7 @@
 ---
 title: "CIV Detected at z=6.11 in GLASS Spectra"
 excerpt: "The HST grism spectra from the GLASS survey of a known lensed multiply imaged source at redshift 6.11 revelead clear detections of the rest-frame UV line CIV. In <a href="http://adsabs.harvard.edu/abs/2017arXiv170204731S">Schmidt et al. (2017)</a> we argue that the GLASS data argue for a source with ionizing photons powered by star formation as opposed to AGN activity. <br/><img src='/images/GLASS_CIVdetection.png'>"
-collection: portfolio
+collection: research
 date: 2017-02-15
 ---
 
