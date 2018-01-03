@@ -1,5 +1,5 @@
 ---
-title: "BALLF"
+title: "BALFF"
 excerpt: "Bayesian Algorithm for Luminosity Function Fitting (BALFF)"
 collection: software
 date: 2016-04-29
