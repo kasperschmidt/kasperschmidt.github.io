@@ -3,11 +3,12 @@ title: "Gravitational Lensing, Summer Semester 2018"
 collection: teaching
 permalink: /teaching/SS18_GravLens_UP765
 excerpt: 'A course on the basics of gravitational lensing, from both an observational and theoretical point of view, developing research skills along the way.'
-venue: Potsdam University, 2.28.2.011
 date: 2018-04-02
+venue: 'Potsdam University, 2.28.2.011'
+paperurl: 'http://kasperschmidt.github.io/files/SS18_GL/SS18_GL_courseplan180402.pdf'
 ---
 
-On this page you'll find information about the cours on Graviational Lensing (PHY-765) at Postdam Universiy, summer semester 2018.
+On this page you'll find information about the course on Graviational Lensing (PHY-765) at Potsdam University, summer semester 2018.
 
 ## Page Content
 
@@ -16,7 +17,6 @@ On this page you'll find information about the cours on Graviational Lensing (PH
 - [Course Plan](#course-plan)
 - [Lecture Slides](#lecture-slides)
 - [Seminar Worksheets](#seminar-worksheets)
-
 
 ## Course Description
 
