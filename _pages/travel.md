@@ -15,9 +15,8 @@ __Future Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
-| 2018 |   Apr. 2   -   Apr. 6       | EWASS2018                         |      Liverpool, UK                  | 
-| 2017 |   Dec. 22  -   Dec. 28      | Vacation                          |      Denmark                        |
-
+| 2018 |   Jun. 18 -   Jun. 22*      | MUSE Busy Week                    |      Hendaye, France                | 
+| 2018 |   May 3   -   May 6         | Vacation                          |      Denmark                        | 
 
 \* preliminary dates
 
@@ -25,6 +24,10 @@ __Past Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
+| 2018 |   Apr. 2   -   Apr. 6       | EWASS2018                         |      Liverpool, UK                  | 
+| 2018 |   Mar. 22  -   Apr. 1       | Sakura CLAW                       |      Tokyo, Japan                   | 
+| 2018 |   Feb. 17  -   Feb. 20      | Vacation                          |      Denmark                        | 
+| 2017 |   Dec. 22  -   Dec. 28      | Vacation                          |      Denmark                        |
 | 2017 |   Nov. 20  -   Nov. 24      | MUSE Busy Week                    |      Volendam, Netherlands          |
 | 2017 |   Oct. 22  -   Oct. 28      | Spectroscopy & JWST Conference    |      Leiden, Netherlands            |
 | 2017 |    Sep. 29  -   Oct. 3      | Vacation                          |      Denmark                        |
