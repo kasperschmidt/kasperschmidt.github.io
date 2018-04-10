@@ -11,7 +11,7 @@ location: 'Room: 2.28.2.011'
 
 On this page you'll find information about the course on Graviational Lensing (PHY-765) at Potsdam University, summer semester 2018.
 
-If you are interested in the course, please fill out [this short google questionaire](https://goo.gl/forms/nNQCJeGbFcG7SYem1). This will help for preparing and focusing the lectures and seminars througout the semester.
+If you are interested in the course, please fill out [this short google questionnaire](https://goo.gl/forms/nNQCJeGbFcG7SYem1). This will help for preparing and focusing the lectures and seminars througout the semester.
 
 ## Page Content
 
