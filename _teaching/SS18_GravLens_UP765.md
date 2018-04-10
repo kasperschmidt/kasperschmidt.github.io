@@ -44,11 +44,11 @@ __Contact:__ kbschmidt *at* aip.de
 
 ## Course Plan
 
-[The course plan and overview (v180402)](http://kasperschmidt.github.io/files/SS18_GL/SS18_GL_courseplan180402.pdf)
+[The course plan and overview (v180410)](http://kasperschmidt.github.io/files/SS18_GL/SS18_GL_courseplan180410.pdf)
 
 ## Lecture Slides
 
-Slides week 1
+[Slides week 1](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_slides_week1.pdf)
 
 Slides week 2
 
@@ -80,7 +80,7 @@ Slides week 15
 
 ## Seminar Worksheets
 
-Worksheet week 1
+[Worksheet week 1](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_worksheet_week1.pdf)
 
 Worksheet week 2
 
@@ -112,4 +112,7 @@ Worksheet week 15
 
 ## Literature
 
-TBD
+* Schneider, P., Ehlers, J., & Falco, E. E. (1992). Gravitational Lenses. Gravitational Lenses, 112. http://doi.org/10.1007/978-3-662-03758-4
+* Dodelson, S. (2017). Gravitational Lensing. Cambridge University Press.
+* Schneider, P., Kochanek, C., & Wambsganss, J. (2006). Gravitational Lensing: Strong, Weak and Micro (Vol. 33). Berlin, Heidelberg: Springer Science & Business Media. http://doi.org/10.1007/978-3-540-30310-7
+* Wambsganss, J. (1998). Gravitational Lensing in Astronomy. Living Reviews in Relativity, 1(1), 12. http://doi.org/10.12942/lrr-1998-12
