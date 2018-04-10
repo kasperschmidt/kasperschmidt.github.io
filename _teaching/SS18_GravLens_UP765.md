@@ -3,7 +3,7 @@ title: "Gravitational Lensing"
 collection: teaching
 excerpt: 'A course on the basics of gravitational lensing, from both an observational and theoretical point of view, developing research skills along the way.'
 permalink: /teaching/SS18_GravLens_UP765
-type: "PHY-765, Summer Semester 2018"
+type: "PHY-765, Summer Semester"
 venue: "Potsdam University"
 date: 2018-04-02
 location: 'Room: 2.28.2.011'
