@@ -15,6 +15,11 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
+  {% if page.collection == 'theses' %}
+    {% include sidebar.html %}
+
+  {% if page.collection == 'software' %}
+    {% include sidebar.html %}
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
