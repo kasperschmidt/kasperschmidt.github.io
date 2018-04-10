@@ -112,7 +112,7 @@ Worksheet week 15
 
 ## Literature
 
-* Schneider, P., Ehlers, J., & Falco, E. E. (1992). Gravitational Lenses. Gravitational Lenses, 112. http://doi.org/10.1007/978-3-662-03758-4
 * Dodelson, S. (2017). Gravitational Lensing. Cambridge University Press.
-* Schneider, P., Kochanek, C., & Wambsganss, J. (2006). Gravitational Lensing: Strong, Weak and Micro (Vol. 33). Berlin, Heidelberg: Springer Science & Business Media. http://doi.org/10.1007/978-3-540-30310-7
-* Wambsganss, J. (1998). Gravitational Lensing in Astronomy. Living Reviews in Relativity, 1(1), 12. http://doi.org/10.12942/lrr-1998-12
+* Schneider, P., Ehlers, J., & Falco, E. E. (1992). Gravitational Lenses. Gravitational Lenses, 112. <http://doi.org/10.1007/978-3-662-03758-4>
+* Schneider, P., Kochanek, C., & Wambsganss, J. (2006). Gravitational Lensing: Strong, Weak and Micro (Vol. 33). Berlin, Heidelberg: Springer Science & Business Media. <http://doi.org/10.1007/978-3-540-30310-7>
+* Wambsganss, J. (1998). Gravitational Lensing in Astronomy. Living Reviews in Relativity, 1(1), 12. <http://doi.org/10.12942/lrr-1998-12>
