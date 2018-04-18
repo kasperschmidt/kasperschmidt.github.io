@@ -44,7 +44,7 @@ __Contact:__ kbschmidt *at* aip.de
 
 ## Course Plan
 
-[The course plan and overview (v180410)](http://kasperschmidt.github.io/files/SS18_GL/SS18_GL_courseplan180410.pdf)
+[The course plan and overview (v180418)](http://kasperschmidt.github.io/files/SS18_GL/SS18_GL_courseplan.pdf)
 
 ## Lecture Slides
 
