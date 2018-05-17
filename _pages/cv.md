@@ -39,16 +39,18 @@ Work experience
   * 01/10/2008 - 31/08/2012
       
 Research Experience and Positions
-======* External Reviewer for Chinese Telescope Access Program TAC
-  * 2017 - present* Team Member, MUSE GTO team
-  * 2016 - present* Team Member, The Grism Lens-Amplified Survey from Space (GLASS)
-  * 2012 - present* Team Member, BoRG Hubble Parallel Survey Group
+======* Team Member, [The GLASS JWST ERS program](http://glass.astro.ucla.edu/ers/)
+  * 2017 - present
+* External Reviewer for Chinese Telescope Access Program TAC
+  * 2017 - present* Team Member, [MUSE GTO team](http://muse-vlt.eu/science/)
+  * 2016 - present* Team Member, [The Grism Lens-Amplified Survey from Space (GLASS)](http://glass.astro.ucla.edu/)
+  * 2012 - present* Team Member, [BoRG Hubble Parallel Survey Group](http://borg.astro.ucla.edu/)
   * 2012 - present* Referee, ApJ, MNRAS
-  * 2010 - present* Team Member, 3D-HST Hubble Treasury Legacy Survey Group
+  * 2010 - present* Team Member, [3D-HST Hubble Treasury Legacy Survey Group](https://3dhst.research.yale.edu/)
   * 2010 - 2013* Organizer & Founder of ‘LiHD - Lensing in Heidelberg’, monthly seminar session on lensing. 
-  * 2009 - 2012* Team Member, Pan-STARRS1 Science Collaboration
-  * 2008 - 2012* Member, International Max Planck Research School - Heidelberg (IMPRS-HD)
-  * 2008 - 2012* Member, ELIXIR, Marie Curie Initial Training Network: Early Universe w. NIRSpec on JWST  * 2008 - 2011
+  * 2009 - 2012* Team Member, [Pan-STARRS1 Science Collaboration](http://panstarrs.stsci.edu/)
+  * 2008 - 2012* Member, International Max Planck Research School - Heidelberg ([IMPRS-HD](http://imprs-hd.mpg.de/))
+  * 2008 - 2012* Member, [ELIXIR](http://www.iap.fr/elixir/index.html), Marie Curie Initial Training Network: Early Universe w. NIRSpec on JWST  * 2008 - 2011
 Publications
 ======
 For an extensive version of my CV including the full list of publications have a look at __[the PDF version of my CV](http://kasperschmidt.github.io/files/CV_KBSchmidt.pdf)__.
