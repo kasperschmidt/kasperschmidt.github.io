@@ -60,7 +60,7 @@ __Contact:__ kbschmidt *at* aip.de
 
 [Slides week 6](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_slides_week6.pdf)
 
-Slides week 7
+[Slides week 7](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_slides_week7.pdf)
 
 Slides week 8
 
@@ -92,7 +92,7 @@ Slides week 15
 
 [Worksheet week 6](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_worksheet_week6.pdf)
 
-Worksheet week 7
+[Worksheet week 7](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_worksheet_week7.pdf)
 
 Worksheet week 8
 
@@ -112,7 +112,8 @@ Worksheet week 15
 
 ## Literature
 
-* Dodelson, S. (2017). Gravitational Lensing. Cambridge University Press.
+* Dodelson, S. (2017). Gravitational Lensing. Cambridge University Press. [ISBN: 9781107129764](http://www.cambridge.org/de/academic/subjects/physics/cosmology-relativity-and-gravitation/gravitational-lensing#YuMYstpbYubV2DeQ.97)
 * Schneider, P., Ehlers, J., & Falco, E. E. (1992). Gravitational Lenses. Gravitational Lenses, 112. <http://doi.org/10.1007/978-3-662-03758-4>
 * Schneider, P., Kochanek, C., & Wambsganss, J. (2006). Gravitational Lensing: Strong, Weak and Micro (Vol. 33). Berlin, Heidelberg: Springer Science & Business Media. <http://doi.org/10.1007/978-3-540-30310-7>
 * Wambsganss, J. (1998). Gravitational Lensing in Astronomy. Living Reviews in Relativity, 1(1), 12. <http://doi.org/10.12942/lrr-1998-12>
+* Treu, T., Marshall, P. J., & Clowe, D. (2012). Resource Letter GL-1: Gravitational Lensing. American Journal of Physics, 80(9), 753–763. <http://doi.org/10.1119/1.4726204>
