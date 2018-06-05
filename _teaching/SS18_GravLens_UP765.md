@@ -64,7 +64,7 @@ __Contact:__ kbschmidt *at* aip.de
 
 [Slides week 8](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_slides_week8.pdf)
 
-Slides week 9
+[Slides week 9](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_slides_week9.pdf)
 
 Slides week 10
 
@@ -96,7 +96,7 @@ Slides week 15
 
 [Worksheet week 8](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_worksheet_week8.pdf)
 
-Worksheet week 9
+[Worksheet week 9](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_worksheet_week9.pdf)
 
 Worksheet week 10
 
