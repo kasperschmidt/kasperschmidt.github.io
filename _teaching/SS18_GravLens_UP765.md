@@ -72,7 +72,7 @@ Slides week 11 (no lecture - compensated by longer lectures the rest of the seme
 
 [Slides week 12](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_slides_week12.pdf)
 
-Slides week 13
+[Slides week 13](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_slides_week13.pdf)
 
 Slides week 14
 
@@ -104,7 +104,7 @@ Worksheet week 11 (no lecture - compensated by longer lectures the rest of the s
 
 [Worksheet week 12](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_worksheet_week12.pdf)
 
-Worksheet week 13
+[Worksheet week 13](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_worksheet_week13.pdf)
 
 Worksheet week 14
 
