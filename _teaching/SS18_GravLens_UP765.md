@@ -20,6 +20,7 @@ If you are interested in the course, please fill out [this short google question
 - [Course Plan](#course-plan)
 - [Lecture Slides](#lecture-slides)
 - [Seminar Worksheets](#seminar-worksheets)
+- [Exam](#exam)
 - [Literature](#literature)
 
 ## Course Description
@@ -76,7 +77,7 @@ Slides week 11 (no lecture - compensated by longer lectures the rest of the seme
 
 [Slides week 14](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_slides_week14.pdf)
 
-Slides week 15
+[Slides week 15](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_slides_week15.pdf)
 
 ## Seminar Worksheets
 
@@ -108,7 +109,15 @@ Worksheet week 11 (no lecture - compensated by longer lectures the rest of the s
 
 [Worksheet week 14](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_worksheet_week14.pdf)
 
-Worksheet week 15
+[Worksheet week 15](https://kasperschmidt.github.io/files/SS18_GL/SS18_GravLens_worksheet_week15.pdf)
+
+## Exam
+
+The course is part of the PHY-765 module, where the student's are free to take the exam in any of the module courses. The exam format of the Gravtiational Lensing course is:
+
+"45 min. oral examination: 20 min presentation w. topics known in advance + Q&A."
+
+The details of the exam are described in [Exam Info and Format](https://kasperschmidt.github.io/files/SS18_GL/SS18_GL_examinfo.pdf).
 
 ## Literature
 
