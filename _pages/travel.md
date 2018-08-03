@@ -15,8 +15,9 @@ __Future Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
-| 2018 |   Jun. 18 -   Jun. 22*      | MUSE Busy Week                    |      Hendaye, France                | 
-| 2018 |   May 3   -   May 6         | Vacation                          |      Denmark                        | 
+| 2018 |   Dec. 22  -   Jan. 1*      | Vacation                          |      Denmark & Berlin               |
+| 2018 |   Oct. 21 -   Oct. 26*      | MUSE Busy Week                    |      Chania, Greece                 | 
+| 2018 |   Aug. 4  -   Aug 19        | Vacation                          |      Denmark & Berlin               | 
 
 \* preliminary dates
 
@@ -24,6 +25,9 @@ __Past Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
+| 2018 |   Jul. 7   -   Jul. 9       | Vacation                          |      Denmark                        | 
+| 2018 |   Jun. 17 -   Jun. 22       | MUSE Busy Week                    |      Hendaye, France                | 
+| 2018 |   May 3   -   May 6         | Vacation                          |      Denmark                        | 
 | 2018 |   Apr. 2   -   Apr. 6       | EWASS2018                         |      Liverpool, UK                  | 
 | 2018 |   Mar. 22  -   Apr. 1       | Sakura CLAW                       |      Tokyo, Japan                   | 
 | 2018 |   Feb. 17  -   Feb. 20      | Vacation                          |      Denmark                        | 
