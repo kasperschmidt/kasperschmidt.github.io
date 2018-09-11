@@ -9,5 +9,5 @@ TDOSE is a Python tool for optimally extracting 1D spectra from IFU data cubes. 
 <https://github.com/kasperschmidt/TDOSE>
 
 <center>
-<img src='/images/TDOSElogo.png' width='200'>
+<img src='/images/TDOSElogo.png' width='300'>
 </center>
