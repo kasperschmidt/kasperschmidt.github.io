@@ -16,8 +16,8 @@ __Future Travel__
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
 | 2018 |   Dec. 22  -   Jan. 1*      | Vacation                          |      Denmark & Berlin               |
-| 2018 |   Oct. 21 -   Oct. 26*      | MUSE Busy Week                    |      Chania, Greece                 | 
-| 2018 |   Aug. 4  -   Aug 19        | Vacation                          |      Denmark & Berlin               | 
+| 2018 |   Dec. 3   -   Dec. 14*     | VLT/MUSE obs.                     |      Snatiago/Paranal, Chile        | 
+| 2018 |   Oct. 21  -   Oct. 27      | MUSE Busy Week                    |      Chania, Greece                 | 
 
 \* preliminary dates
 
@@ -25,6 +25,7 @@ __Past Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
+| 2018 |   Aug. 4  -   Aug 19        | Vacation                          |      Denmark & Berlin               | 
 | 2018 |   Jul. 7   -   Jul. 9       | Vacation                          |      Denmark                        | 
 | 2018 |   Jun. 17 -   Jun. 22       | MUSE Busy Week                    |      Hendaye, France                | 
 | 2018 |   May 3   -   May 6         | Vacation                          |      Denmark                        | 
