@@ -17,6 +17,7 @@ __Future Travel__
 |:--------:|:-------:|:--------|:--------|
 | 2018 |   Dec. 22  -   Jan. 1*      | Vacation                          |      Denmark & Berlin               |
 | 2018 |   Dec. 3   -   Dec. 14*     | VLT/MUSE obs.                     |      Snatiago/Paranal, Chile        | 
+| 2018 |   Oct. 31  -   Nov. 5       | Vacation                          |      Denmark                        | 
 | 2018 |   Oct. 21  -   Oct. 27      | MUSE Busy Week                    |      Chania, Greece                 | 
 
 \* preliminary dates
