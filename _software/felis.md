@@ -8,6 +8,3 @@ FELIS is a simple Python tool that can be used to match a given set of emission 
 
 <https://github.com/kasperschmidt/FELIS>
 
-<center>
-<img src='images/FELISlogo.png' width='400'>
-</center>
