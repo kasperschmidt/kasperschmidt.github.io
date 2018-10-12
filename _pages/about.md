@@ -23,5 +23,6 @@ where I moved to after having completed my PhD at the
 In my spare time I spend time with my family, play basketball, run, scuba-dive from time to time, listen to music and exploit Berlin’s many concert venues.
 
 42195:
-* pt. 1:            CPH    3:36:10
-* pt. 2:            FRA    3:29:05
+* pt. 1:            CPH08    3:36:10
+* pt. 2:            FRA11    3:29:05
+* pt. 3:            BER18    3:31:26
