@@ -39,7 +39,9 @@ Work experience
   * 01/10/2008 - 31/08/2012
       
 Research Experience and Positions
-======* Team Member, [The GLASS JWST ERS program](http://glass.astro.ucla.edu/ers/)
+======
+* Member, International Astronomical Union (IAU)  * 2018 - present* Fellow, International Teaching Professionals program
+  * 2017 - 2018* Team Member, [The GLASS JWST ERS program](http://glass.astro.ucla.edu/ers/)
   * 2017 - present
 * External Reviewer for Chinese Telescope Access Program TAC
   * 2017 - present* Team Member, [MUSE GTO team](http://muse-vlt.eu/science/)
