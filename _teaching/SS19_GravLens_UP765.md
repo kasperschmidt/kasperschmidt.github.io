@@ -85,7 +85,7 @@ Slides week 16
 
 ## Seminar Worksheets
 
-[Worksheet week 1](https://kasperschmidt.github.io/files/SS19_GL/SS18_GravLens_worksheet_week1.pdf)
+[Worksheet week 1](https://kasperschmidt.github.io/files/SS19_GL/SS19_GravLens_worksheet_week1.pdf)
 
 Worksheet week 2
 
@@ -124,7 +124,7 @@ The course is part of the PHY-765 module, where the student's are free to take t
 
 "45 min. oral examination: 20 min presentation w. topics known in advance + Q&A."
 
-The details of the exam are described in [Exam Info and Format](https://kasperschmidt.github.io/files/SS18_GL/SS19_GL_examinfo.pdf).
+The details of the exam are described in [Exam Info and Format](https://kasperschmidt.github.io/files/SS19_GL/SS19_GL_examinfo.pdf).
 
 ## Literature
 
