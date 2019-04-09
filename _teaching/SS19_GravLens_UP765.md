@@ -6,7 +6,7 @@ permalink: /teaching/SS19_GravLens_UP765
 type: "PHY-765, Summer Semester"
 venue: "Potsdam University"
 date: 2019-04-10
-location: 'Room: TBD'
+location: 'Room: 2.28.2.011'
 ---
 
 On this page you'll find information about the course on Graviational Lensing (PHY-765) at Potsdam University, summer semester 2019.
@@ -81,8 +81,6 @@ Slides week 14
 
 Slides week 15
 
-Slides week 16
-
 ## Seminar Worksheets
 
 [Worksheet week 1](https://kasperschmidt.github.io/files/SS19_GL/SS19_GravLens_worksheet_week1.pdf)
@@ -114,9 +112,6 @@ Worksheet week 13
 Worksheet week 14
 
 Worksheet week 15
-
-Worksheet week 16
-
 
 ## Exam
 
