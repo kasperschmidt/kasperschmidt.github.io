@@ -16,13 +16,17 @@ My main research revolves around Lyman break galaxies (LBGs) and Lyman alpha emi
 My research is done as part of large surveys and international collaborations including the MUSE Consortium and [The MUSE-Wide survey](https://musewide.aip.de), [The Grism Lens-Amplified Survey from Space (GLASS)](http://glass.astro.ucla.edu/), [The GLASS JWST ERS program](http://glass.astro.ucla.edu/ers/) and [The Brightest of Reionizing Galaxies (BoRG)](http://borg.astro.ucla.edu) survey.
 
 I started working at AIP in 2015 after 3 and a bit years at 
-[UC Santa Barbara](http://web.physics.ucsb.edu/~astrogroup/),
-where I moved to after having completed my PhD at the 
+[UC Santa Barbara](http://web.physics.ucsb.edu/~astrogroup/).
+I moved there after completing my PhD at the 
 [Max Planck Institute for Astronomy in Heidelberg](http://www.mpia.de/), as an [ELIXIR](http://www.iap.fr/elixir/) Marie Curie Fellow under the supervision of [Prof. Dr. Hans-Walter Rix](http://www.mpia.de/rix). 
 
 In my spare time I spend time with my family, play basketball, run, scuba-dive from time to time, listen to music and exploit Berlin’s many concert venues.
 
-42195:
-* pt. 1:            CPH08    3:36:10
-* pt. 2:            FRA11    3:29:05
-* pt. 3:            BER18    3:31:26
+
+| Year     | Location| 42195.0 | 21097.5 |
+|:--------:|:-------:|:--------|:--------|
+| 2019     |   BER   | -       | 1:37:57 |
+| 2018     |   BER   | 3:31:26 | 1:39:19 |
+| 2018     |   BER   | -       | 1:44:41 |
+| 2011     |   FRA   | 3:29:05 | 1:39:54 |
+| 2008     |   CPH   | 3:36:10 | 1:46:03 |
