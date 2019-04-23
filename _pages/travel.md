@@ -15,7 +15,8 @@ __Future Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
-| 2018 |   Jan. 23  -   Jan. 30      | Vacation                          |      Bahrain                        |
+| *2019 |   Jul.  -   Aug.       | Vacation                          |      Denmark                        |
+
 
 \* preliminary dates
 
@@ -23,6 +24,7 @@ __Past Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
+| 2019 |   Jan. 23  -   Jan. 30      | Vacation                          |      Bahrain                        |
 | 2018 |   Dec. 22  -   Jan. 6       | Vacation                          |      Denmark & Berlin               |
 | 2018 |   Dec. 2   -   Dec. 14      | VLT/MUSE obs.                     |      Santiago/Paranal, Chile        | 
 | 2018 |   Oct. 31  -   Nov. 5       | Vacation                          |      Denmark                        | 
