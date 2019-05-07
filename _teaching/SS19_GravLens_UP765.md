@@ -59,7 +59,7 @@ __Contact:__ kbschmidt *at* aip.de
 
 Slides week 4 - May 1st (holiday; no lecture - compensated by longer lectures the rest of the semester)
 
-Slides week 5 
+[Slides week 5](https://kasperschmidt.github.io/files/SS19_GL/SS19_GravLens_slides_week5.pdf)
 
 Slides week 6
 
@@ -91,7 +91,7 @@ Slides week 15
 
 Worksheet week 4 - May 1st (holiday; no lecture - compensated by longer lectures the rest of the semester)
 
-Worksheet week 5
+[Worksheet week 5](https://kasperschmidt.github.io/files/SS19_GL/SS19_GravLens_worksheet_week5.pdf)
 
 Worksheet week 6
 
