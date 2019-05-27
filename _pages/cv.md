@@ -50,4 +50,4 @@ Research Experience and Positions
 ======
 For an extensive version of my CV including the full list of publications have a look at __[the PDF version of my CV](http://kasperschmidt.github.io/files/CV_KBSchmidt.pdf)__.
 
-My publication record is also available at __[my ORCID page](https://orcid.org/0000-0002-3418-7251)__ or via __[ADS searches]("https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy)&q=%20%20author%3A%22Schmidt%2C%20Kasper%22&sort=date%20desc%2C%20bibcode%20desc")__.
+My publication record is also available at __[my ORCID page](https://orcid.org/0000-0002-3418-7251)__ or via __[ADS searches](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Schmidt%2C%20Kasper%22&sort=date%20desc%2C%20bibcode%20desc)__.
