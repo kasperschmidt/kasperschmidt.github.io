@@ -69,7 +69,7 @@ Slides week 4 - May 1st (holiday; no lecture - compensated by longer lectures th
 
 [Slides week 9](https://kasperschmidt.github.io/files/SS19_GL/SS19_GravLens_slides_week9.pdf)
 
-Slides week 10
+[Slides week 10](https://kasperschmidt.github.io/files/SS19_GL/SS19_GravLens_slides_week10.pdf)
 
 Slides week 11
 
@@ -101,7 +101,7 @@ Worksheet week 4 - May 1st (holiday; no lecture - compensated by longer lectures
 
 [Worksheet week 9](https://kasperschmidt.github.io/files/SS19_GL/SS19_GravLens_worksheet_week9.pdf)
 
-Worksheet week 10
+[Worksheet week 10](https://kasperschmidt.github.io/files/SS19_GL/SS19_GravLens_worksheet_week10.pdf)
 
 Worksheet week 11
 
