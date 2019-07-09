@@ -15,7 +15,7 @@ __Future Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
-| *2019 |   Jul.  -   Aug.       | Vacation                          |      Denmark                        |
+| 2019 |   Jul. 18  -   Aug. 4       | Vacation                          |      Denmark                        |
 
 
 \* preliminary dates
