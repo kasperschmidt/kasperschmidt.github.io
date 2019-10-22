@@ -15,8 +15,9 @@ __Future Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
-| 2019 |   Jul. 18  -   Aug. 4       | Vacation                          |      Denmark                        |
-
+| 2019 |   Dec. 20 -   Dec. 30*     | Vacation                           |      Denmark                        |
+| 2019 |   Nov. 12 -   Nov. 14      | Institute visit                    |      Copenhagen, Denmark            |
+| 2019 |   Nov. 4  -   Nov. 8       | MUSE Busy Week                     |      Braga, Portugal                |
 
 \* preliminary dates
 
@@ -24,6 +25,7 @@ __Past Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
+| 2019 |   Jul. 18  -   Aug. 4       | Vacation                          |      Denmark                        |
 | 2019 |   Jan. 23  -   Jan. 30      | Vacation                          |      Bahrain                        |
 | 2018 |   Dec. 22  -   Jan. 6       | Vacation                          |      Denmark & Berlin               |
 | 2018 |   Dec. 2   -   Dec. 14      | VLT/MUSE obs.                     |      Santiago/Paranal, Chile        | 
