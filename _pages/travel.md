@@ -15,7 +15,7 @@ __Future Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
-| 2020 |   May 5 - May 8             | MUSE Busy Week                    |      Strausberg, Germany            |
+| 2021 |   None...			  |                           |      
 
 \* preliminary dates
 
@@ -23,6 +23,8 @@ __Past Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
+| 2020 |   December/January			  | Vacation                          |      Denmark                        
+| 2020 |   July/August			      | Vacation                          |      Denmark                        
 | 2019 |   Dec. 20 -   Dec. 30       | Vacation                          |      Denmark                        |
 | 2019 |   Nov. 12 -   Nov. 14       | DAWN visit                        |      Copenhagen, Denmark            |
 | 2019 |   Nov. 4  -   Nov. 8        | MUSE Busy Week                    |      Braga, Portugal                |
