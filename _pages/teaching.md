@@ -9,7 +9,7 @@ author_profile: true
 
 Below I have listed a short description of the courses I've been teaching resently with links to the respective course sites. 
 
-A PDF containing my teaching protfolio is available at __[http://kasperschmidt.github.io/files/CV_KBSchmidt.pdf](http://kasperschmidt.github.io/files/Schmidt_teaching_portfolio.pdf)__
+A PDF containing my teaching protfolio is available at __[http://kasperschmidt.github.io/files/Schmidt_teaching_portfolio.pdf](http://kasperschmidt.github.io/files/Schmidt_teaching_portfolio.pdf)__
 
 
 {% for post in site.teaching reversed %}
