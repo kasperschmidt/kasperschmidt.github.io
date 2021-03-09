@@ -20,7 +20,7 @@ I started working at AIP in 2015 after 3 and a bit years at
 I moved there after completing my PhD at the 
 [Max Planck Institute for Astronomy in Heidelberg](http://www.mpia.de/), as an [ELIXIR](http://www.iap.fr/elixir/) Marie Curie PhD Fellow under the supervision of [Prof. Dr. Hans-Walter Rix](http://www.mpia.de/rix). 
 
-In my spare time I spend time with my family, play basketball, run, scuba-dive from time to time, and exploit Berlin’s many concert venues.
+In my spare time I spend time with my family, play boardgames, listen to music, run, and scuba-dive from time to time when traveling.
 
 
 | Year     | Location| 42195.0 | 21097.5 |
