@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+13/06/21
+
 I’m Danish and live in Nyborg with my wife and two sons. Since May 2021 I have been working as an IT assistant at [Asmodee Nordics](https://asmodeenordics.com/). 
 
 I moved to Asmodee after more than five years as a postdoctoral researcher at the 
@@ -20,7 +22,7 @@ I started working at AIP in 2015 after 3 and a bit years at
 I moved to UCSB after completing my PhD at the 
 [Max Planck Institute for Astronomy in Heidelberg](http://www.mpia.de/), as an [ELIXIR](http://www.iap.fr/elixir/) Marie Curie PhD Fellow under the supervision of [Prof. Dr. Hans-Walter Rix](http://www.mpia.de/rix). 
 
-In my spare time I spend time with my family, play boardgames, listen to music, run, and and enjoyed scuba-diving from time to time back when traveling was more straight forward.
+In spend my spare time with the family, play boardgames, listen to music, run, and enjoyed scuba-diving from time to time back when traveling was more straight forward.
 
 
 | Year     | Location| 42195.0 | 21097.5 |
@@ -31,5 +33,3 @@ In my spare time I spend time with my family, play boardgames, listen to music, 
 | 2011     |   FRA   | 3:29:05 | 1:39:54 |
 | 2008     |   CPH   | 3:36:10 | 1:46:03 |
 
-
-. updated 13/06/21 .
