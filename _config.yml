@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "K. B. Schmidt, AIP"
+title                    : "K. B. Schmidt"
 title_separator          : "-"
 name                     : &name "Kasper B. Schmidt"
 description              : &description "KBS description"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "K. B. Schmidt"
   avatar           : "bio_photo_kbs.png"
-  bio              : "Postdoctoral Researcher"
-  location         : "AIP, Potsdam, Germany"
+  bio              : "PhD in Astrophysics and Data Scientist"
+  location         : "Nyborg, Denmark"
   employer         :
   googlescholar    : 
-  email            : "kbschmidt@aip.de"
+  email            : "kasperschmidt@me.com"
   uri              :
   bitbucket        :
   codepen          :
