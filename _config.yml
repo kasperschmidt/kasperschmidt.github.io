@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "K. B. Schmidt"
+title                    : "About KBS"
 title_separator          : "-"
 name                     : &name "Kasper B. Schmidt"
 description              : &description "KBS description"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "About KBS"
+  name             : "K. B. Schmidt"
   avatar           : "bio_photo_kbs.png"
   bio              : "PhD in Astrophysics and Data Scientist"
   location         : "Nyborg, Denmark"
