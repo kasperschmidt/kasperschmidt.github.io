@@ -15,7 +15,7 @@ __Future Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
-| 2021 |   Apr. 14 - Apr. 30			  | Vacation                          |      Denmark                        |   
+   
 
 \* preliminary dates
 
@@ -23,6 +23,7 @@ __Past Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
+| 2021 |   Apr. 14 - Apr. 30		  | Vacation                          |      Denmark                        
 | 2020 |   December/January			  | Vacation                          |      Denmark                        |
 | 2020 |   July/August			      | Vacation                          |      Denmark                        |
 | 2019 |   Dec. 20 -   Dec. 30       | Vacation                          |      Denmark                        |
