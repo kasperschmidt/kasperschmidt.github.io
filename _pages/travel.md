@@ -15,7 +15,7 @@ __Future Travel__
 
 | Year | Dates | Purpose | Location |
 |:--------:|:-------:|:--------|:--------|
-   
+| 2021 |   -		  | Nothing planned                          |      ??                           
 
 \* preliminary dates
 
