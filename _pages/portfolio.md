@@ -19,7 +19,7 @@ Some of the bigger questions I have tried to address with my research are:
 * What role do active galactic nuclei play at high redshift?
 * What are the physical properties, like for instance the ionization state, gas-phase metallicity, and powering mechanisms of galaxies at both cosmic dawn, noon and midday?   
 
-I have done my research as part of large surveys and international collaborations including the MUSE Consortium and [The MUSE-Wide survey](https://musewide.aip.de), [The Grism Lens-Amplified Survey from Space (GLASS)](http://glass.astro.ucla.edu/), [The GLASS JWST ERS program](http://glass.astro.ucla.edu/ers/) and [The Brightest of Reionizing Galaxies (BoRG)](http://borg.astro.ucla.edu) survey.
+I have done my research as part of large surveys and international collaborations including the MUSE Consortium and __[The MUSE-Wide survey](https://musewide.aip.de)__, __[The Grism Lens-Amplified Survey from Space (GLASS)](http://glass.astro.ucla.edu/)__, __[The GLASS JWST ERS program](http://glass.astro.ucla.edu/ers/)__ and __[The Brightest of Reionizing Galaxies (BoRG)](http://borg.astro.ucla.edu)__ survey.
 
-To get a larger overview and more details on individual topics a good place to start is my [scientific publication record](https://kasperschmidt.github.io/cv/).
+To get a larger overview and more details on individual topics a good place to start is my __[scientific publication record](https://kasperschmidt.github.io/cv/)__.
 
