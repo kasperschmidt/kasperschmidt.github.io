@@ -15,9 +15,9 @@ I’m Danish and live in Nyborg with my wife and two sons. Since May 2021 I have
 I moved to Asmodee after more than five years as a postdoctoral researcher at the 
 [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de/en) in [Prof. Dr. Lutz Wisotzki](http://www.aip.de/Members/lwisotzki/)’s [group](http://www.aip.de/en/research/research-area-ea/research-groups-and-projects/galaxies). 
 
-My main reserach as an astrophysicst is describe in a few paragraphs at the [research page](https://kasperschmidt.github.io/portfolio/). 
+My main reserach as an astrophysicst is described in a few paragraphs at the [research page](https://kasperschmidt.github.io/portfolio/). 
 
-I started working at AIP in 2015 after 3 and a bit years at 
+I started working at AIP in 2015 after a bit more than three years at 
 [UC Santa Barbara](http://web.physics.ucsb.edu/~astrogroup/).
 I moved to UCSB after completing my PhD at the 
 [Max Planck Institute for Astronomy in Heidelberg](http://www.mpia.de/), as an [ELIXIR](http://www.iap.fr/elixir/) Marie Curie PhD Fellow under the supervision of [Prof. Dr. Hans-Walter Rix](http://www.mpia.de/rix). 
