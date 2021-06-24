@@ -20,8 +20,6 @@ Contact
 
 __Kasper Borello Schmidt__
 
-__Cell:__ +45 22 47 22 87
-
 __E-mail:__ kasperschmidt at me.com
 
 Education
