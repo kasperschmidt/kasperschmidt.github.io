@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-13/06/21
+Updated: 18/08/21
 
-I’m Danish and live in Nyborg with my wife and two sons. Since May 2021 I have been working as an IT assistant at [Asmodee Nordics](https://asmodeenordics.com/). 
+I’m Danish and live in Nyborg with my wife and two sons. Over the summer 2021 (May-July) I working as IT assistant at [Asmodee Nordics](https://asmodeenordics.com/) after moving back to Denmark with the family. 
 
 I moved to Asmodee after more than five years as a postdoctoral researcher at the 
 [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de/en) in [Prof. Dr. Lutz Wisotzki](http://www.aip.de/Members/lwisotzki/)’s [group](http://www.aip.de/en/research/research-area-ea/research-groups-and-projects/galaxies). 
