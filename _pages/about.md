@@ -11,15 +11,17 @@ redirect_from:
 Updated: 17/12/23
 
 I’m Danish and live in Nyborg with my wife and two sons. 
-I am working as a data and analysis consultant at [Næstved, Slagelse, and Ringsted hospitals (NSR)](https://www.nsrsygehuse.dk), as part of the economics and planning unit of the [hospitals administration](https://www.nsrsygehuse.dk/servicemenu/om-os/administrationen). 
-At NSR I'm part of a small three-person datateam responsible for pullling data from various patient, citizen and HR databases and providing various analyses of the activity and production at NSR. 
+I am working as a data and analysis consultant at [Næstved, Slagelse, and Ringsted hospitals (NSR)](https://www.nsrsygehuse.dk), 
+as part of the economics and planning unit of the [hospital's administration](https://www.nsrsygehuse.dk/servicemenu/om-os/administrationen). 
+
+At NSR I'm part of a small three-person datateam responsible for pullling data from various patient, citizen and HR databases and providing analyses of the activity and production at NSR. 
 In doing so, we support the NSR directorate, the personel at the different wards, as well as the employees of the hospital administration on a daily basis.
-We have developed several systems to monitor and share the data and analysis using software like Excel, TARGIT and PowerBI.
-Using AutoHotkeys we are furthermore enabling atomization of tedious work procedures for ourselves and the clinical staff. 
+We have developed several systems to monitor and share the data and analysis using software tools like Excel, TARGIT and PowerBI.
+Using [AutoHotkeys](https://www.autohotkey.com) we are furthermore enabling automatization of tedious work procedures for ourselves and the clinical staff. 
 We also play a crucial part in regional collaborations on data access and development across national hospitals and take active 
 part in improving the datalandscapes of NSR as well as the region, 
-while providing the main foundation for the continued focus and development of the data-informed ledershops at NSR.
-In other words - whenever the assignment involves NSR and data, we'll get involved.   
+while providing the main foundation for the continued focus and development of the data-informed lederships at NSR.
+In other words - whenever the assignment reads data and NSR, we'll get involved.   
 
 I started my position at NSR after moving back to Denmark with the family in the spring of 2021 after more than five years as a postdoctoral researcher at the 
 [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de/en) in [Prof. Dr. Lutz Wisotzki](http://www.aip.de/Members/lwisotzki/)’s [group](http://www.aip.de/en/research/research-area-ea/research-groups-and-projects/galaxies). 
