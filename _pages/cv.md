@@ -11,9 +11,10 @@ redirect_from:
 
 Full CVs in PDF format are available for my:
 
+__["Public" CV (in danish): http://kasperschmidt.github.io/files/CV_KBSchmidt_public.pdf](http://kasperschmidt.github.io/files/CV_KBSchmidt_public.pdf)__
+
 __[Academic CV: http://kasperschmidt.github.io/files/CV_KBSchmidt.pdf](http://kasperschmidt.github.io/files/CV_KBSchmidt.pdf)__
 
-__["Public" CV: http://kasperschmidt.github.io/files/CV_KBSchmidt_public.pdf](http://kasperschmidt.github.io/files/CV_KBSchmidt_public.pdf)__
 
 Contact
 ======
@@ -31,11 +32,22 @@ Education
 
 Work experience
 ======
-* IT Assistant  * Asmodee Nordics, Copenhagen, Denmark
-  * 01/05/2021 - present* Postdoctoral Researcher  * Leibniz-Institut für Astrophysik Potsdam (AIP), Potsdam, Germany
-  * 09/11/2015 - 30/04/2021* Postdoctoral Researcher  * University of California Santa Barbara (UCSB), CA, USA  * 01/09/2012 - 31/10/2015* Graduate Researcher
-  * Max Planck Institute for Astronomy (MPIA), Heidelberg, Germany
-  * 01/10/2008 - 31/08/2012
+
+* Data and analysis consultant  
+    * Næstved, Slagelse and Ringsted Hospitals (NSR), Slagelse, Denmark
+    * 01/11/2021 - present
+* IT Assistant  
+    * Asmodee Nordics, Copenhagen, Denmark
+    * 01/05/2021 - 01/11/2021
+* Postdoctoral Researcher  
+    * Leibniz-Institut für Astrophysik Potsdam (AIP), Potsdam, Germany
+    * 09/11/2015 - 30/04/2021
+* Postdoctoral Researcher  
+    * University of California Santa Barbara (UCSB), CA, USA  
+    * 01/09/2012 - 31/10/2015
+* Graduate Researcher 
+    * Max Planck Institute for Astronomy (MPIA), Heidelberg, Germany
+    * 01/10/2008 - 31/08/2012
       
 Research Experience and Positions
 ======
