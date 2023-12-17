@@ -1,6 +1,6 @@
 ---
 layout : archive
-title: "When not in Berlin"
+title: "When not home... as life looked per-Covid :/"
 permalink: /travel/
 author_profile: true
 redirect_from:
