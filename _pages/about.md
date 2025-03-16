@@ -11,29 +11,27 @@ redirect_from:
 Updated: 04/01/25
 
 I’m Danish and live in Nyborg with my wife and two sons. 
-I am working as a data consultant at [KiAP (Kvalitet i Almen Praksis)](https://kiap.dk/). KiAP main focus is facilitating and establishing initiatives and platforms, 
-that help improve the quality of the treatment and referral of patients in the primary healthcare sector in Denmark.
+I am working as a data consultant at [KiAP (Kvalitet i Almen Praksis)](https://kiap.dk/). KiAP's main focus is facilitating and establishing initiatives and platforms, 
+for the privat practitioners of the danish healthcare system,
+that help improve the quality of the treatment and referral of patients in the primary sector to e.g. specialized clinics and hospitals in Denmark.
 
-At KiAP my main focus is the establishment of a new business intelligence platform, with data-informed and data-based statistical and analytical overviews of the patient treat at the private medical practices in Denmark.  
+At KiAP my main focus is the establishment of a new business intelligence platform, with data-informed and data-based statistical and analytical overviews of patient populations and their treatments.  
 The platform containing these analyses and BI overviews, is mainly based on data collected in the medical practices via dedicated practice systems, but also includes data from other national registers and data bases.
-The goal is that the platform will help improve the overall quality 
-x
-x
-x
+The goal is that the platform will help improve the overall quality of treatments for the patients, and enable private practitioners to assessment and address areas for improving actions in their private practices.  
 
 I started at KiAP in December 2024. Before that, I was team coordinator for the data, registration and planning unit of the [administration](https://www.nsrsygehuse.dk/servicemenu/om-os/administrationen) 
-at [Næstved, Slagelse, and Ringsted hospitals (NSR)](https://www.nsrsygehuse.dk).
+at [Næstved, Slagelse, and Ringsted hospitals (NSR)](https://www.nsrsygehuse.dk). 
 I moved to this position after having been a data and analysis consultant in the same unit for at bit more than two years.
 
-The data, registration and planning unit was responsible for, among other things, pullling data from various patient, citizen and HR databases, 
+The data, registration and planning unit at NSR is responsible for, among other things, pullling data from various patient, citizen and HR databases, 
 providing analyses of the activity and production at NSR, 
 planing and facilitating the location of the wards at the hospital, 
 ensure proper clinical registration in the available systems, 
 and developing and coordinating the data business intelligence infrastructure specific to NSR. 
 In doing so, we support the NSR directorate, the personel at the different wards, as well as the employees of the hospital administration on a daily basis.
 We have developed several systems to monitor and share the data and analysis using software tools like Excel, TARGIT and PowerBI.
-Using [AutoHotkeys](https://www.autohotkey.com) we are furthermore enabling automatization of tedious work procedures for ourselves and the clinical staff. 
-We also play a crucial part in regional collaborations on data access and development across national hospitals and take active 
+Using [AutoHotkeys](https://www.autohotkey.com) we were furthermore enabling automatization of tedious work procedures for ourselves and the clinical staff. 
+We also played a crucial part in regional collaborations on data access and development across national hospitals and took active 
 part in improving the datalandscapes of NSR as well as the region, 
 while providing the main foundation for the continued focus and development of the data-informed lederships at NSR.
    
