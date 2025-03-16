@@ -8,14 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Updated: 17/02/24
+Updated: 04/01/25
 
 I’m Danish and live in Nyborg with my wife and two sons. 
-I am working as team coordinator for the data, registration and planning unit of the [administration](https://www.nsrsygehuse.dk/servicemenu/om-os/administrationen) 
+I am working as a data consultant at [KiAP (Kvalitet i Almen Praksis)](https://kiap.dk/). KiAP main focus is facilitating and establishing initiatives and platforms, 
+that help improve the quality of the treatment and referral of patients in the primary healthcare sector in Denmark.
+
+At KiAP my main focus is the establishment of a new business intelligence platform, with data-informed and data-based statistical and analytical overviews of the patient treat at the private medical practices in Denmark.  
+The platform containing these analyses and BI overviews, is mainly based on data collected in the medical practices via dedicated practice systems, but also includes data from other national registers and data bases.
+The goal is that the platform will help improve the overall quality 
+x
+x
+x
+
+I started at KiAP in December 2024. Before that, I was team coordinator for the data, registration and planning unit of the [administration](https://www.nsrsygehuse.dk/servicemenu/om-os/administrationen) 
 at [Næstved, Slagelse, and Ringsted hospitals (NSR)](https://www.nsrsygehuse.dk).
 I moved to this position after having been a data and analysis consultant in the same unit for at bit more than two years.
 
-The data, registration and planning unit is responsible for, among other things, pullling data from various patient, citizen and HR databases, 
+The data, registration and planning unit was responsible for, among other things, pullling data from various patient, citizen and HR databases, 
 providing analyses of the activity and production at NSR, 
 planing and facilitating the location of the wards at the hospital, 
 ensure proper clinical registration in the available systems, 
@@ -27,7 +37,6 @@ We also play a crucial part in regional collaborations on data access and develo
 part in improving the datalandscapes of NSR as well as the region, 
 while providing the main foundation for the continued focus and development of the data-informed lederships at NSR.
    
-
 I started my position at NSR after moving back to Denmark with the family in the spring of 2021 after more than five years as a postdoctoral researcher at the 
 [Leibniz-Institut für Astrophysik Potsdam (AIP)](http://www.aip.de/en) in [Prof. Dr. Lutz Wisotzki](http://www.aip.de/Members/lwisotzki/)’s [group](http://www.aip.de/en/research/research-area-ea/research-groups-and-projects/galaxies). 
 
