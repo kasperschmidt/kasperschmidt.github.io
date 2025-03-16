@@ -35,7 +35,7 @@ Work experience
 
 * Data consultant  
     * KiAP (Kvalitet i Almen Praksis), Odense, Denmark
-    * 01/11/2021 - 30/11/2024
+    * 01/12/2024 - present
 * Team coordinator and data & analysis consultant  
     * Næstved, Slagelse and Ringsted Hospitals (NSR), Slagelse, Denmark
     * 01/11/2021 - 30/11/2024
