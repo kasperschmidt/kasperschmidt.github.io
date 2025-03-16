@@ -33,9 +33,12 @@ Education
 Work experience
 ======
 
-* Data and analysis consultant  
+* Data consultant  
+    * KiAP (Kvalitet i Almen Praksis), Odense, Denmark
+    * 01/11/2021 - 30/11/2024
+* Team coordinator and data & analysis consultant  
     * Næstved, Slagelse and Ringsted Hospitals (NSR), Slagelse, Denmark
-    * 01/11/2021 - present
+    * 01/11/2021 - 30/11/2024
 * IT Assistant  
     * Asmodee Nordics, Copenhagen, Denmark
     * 01/05/2021 - 01/11/2021
